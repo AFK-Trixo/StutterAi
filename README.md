@@ -52,18 +52,7 @@ We welcome contributions! If you're interested in improving StutterAI, please fo
 You follow PEP 8 coding standards.
 You write meaningful commit messages and comments in your code.
 You test new features or bug fixes thoroughly.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
-For questions, suggestions, or collaboration opportunities, please reach out:
-
-Your Name
-Email: your.email@example.com
-LinkedIn: Your LinkedIn
-GitHub: Your GitHub
-
-This README provides a clear overview of the project, its features, and instructions on installation, usage, and contribution. Adjust the placeholders to fit your specific details before uploading to GitHub!
 
 
 
